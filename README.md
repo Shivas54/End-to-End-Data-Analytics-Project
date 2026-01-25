@@ -1,15 +1,15 @@
 # 🛍️ Retail Orders Data Analysis
 
 This project analyses a retail orders dataset using Python, SQL, and Jupyter Notebook.  
-It demonstrates essential data analytics skills, including cleaning, EDA and SQL querying.
+It demonstrates essential data analytics skills, including cleaning and SQL querying.
 
 ---
 
 ## 📦 Dataset Information
 
 **Dataset Name:** Retail Orders Dataset  
-**File:** `retail_orders.csv`  
-**Source:**  Local  
+**File:** `orders.csv`  
+**Source:** Kaggle API
 
 The dataset contains fields such as:
 
@@ -44,30 +44,17 @@ retail-orders-data-analysis/
 
 │
 
-├── data/
+|
 
-│   └── retail_orders.csv
-
-│
-
-
-├── notebooks/
-
-
-│   └── Retail_Orders_Analysis.ipynb
+└── order_data_analysis.py
 
 
 │
 
 
-├── sql/
+|
 
-
-│   └── retail_queries.sql
-
-
+└── retail_queries.sql
 │
 
-├── README.md
-
-└── requirements.txt
+── README.md
