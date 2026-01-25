@@ -9,7 +9,7 @@ It demonstrates essential data analytics skills, including cleaning and SQL quer
 
 **Dataset Name:** Retail Orders Dataset  
 **File:** `orders.csv`  
-**Source:** Kaggle API
+**Source:** Kaggle 
 
 The dataset contains fields such as:
 
