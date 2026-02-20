@@ -43,10 +43,14 @@ The dataset contains fields such as:
 retail-orders-data-analysis/
 
 │
+
 |
+
 └── order_data_analysis.py
 │
+
 |
+
 └── retail_queries.sql
 │
 └── README.md
