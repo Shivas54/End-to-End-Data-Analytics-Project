@@ -50,8 +50,7 @@ retail-orders-data-analysis/
 
 │
 
-|
 └── retail_queries.sql
 
-│
+
 └── README.md
